@@ -1,2 +1,3 @@
 To jest zawartosc zmiany
 To jest druga zmiana
+To jest trzecia zmiana
