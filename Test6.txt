@@ -1,1 +1,2 @@
 To jest zawartosc zmiany
+To jest druga zmiana
